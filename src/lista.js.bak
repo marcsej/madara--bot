@@ -1,0 +1,4 @@
+const modapk = () => { 
+	return `TEM NADA AQUI COMPRE COM  O MADARA INFO CCS E O MANO CB!!!!!! 
+}
+exports.modapk = modapk

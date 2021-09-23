@@ -1,0 +1,18 @@
+const iklan = () => { 
+	return `           
+╔══✪〘 MADARA 〙✪══
+║
+╠═══════════════════════════
+╠➥ *LISTA DE ALUGUEL E CRIAR BOTS:*
+╠➥ *ALUGUEL: 10 / GRUPO (MÊS)*
+╠➥ *CRIAR: 35 (PODE SER PROPRIETÁRIO)*
+╠➥ *PODE PAGAR ATRAVÉS DE:*
+╠➥ *MERCADO PAGO, BOLETO,PIX*
+╠═══════════════════════════
+╠➥ *VANTAGENS*
+╠➥ *wa.me/62991707042*
+║
+╚═〘  MADARA BOT 〙
+`
+}
+exports.iklan = iklan
